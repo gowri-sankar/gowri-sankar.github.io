@@ -1,4 +1,8 @@
+@font-face {
+	font-family: Din;
+	src: url(DINMedium.ttf);
+}
 p {
-	font-family: DinBold;
+	font-family: Din;
 	font-size: 60px;
 }
