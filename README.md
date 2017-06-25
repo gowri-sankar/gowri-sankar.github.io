@@ -1,2 +1,1 @@
-# Hello There.
-Doing stuff
+# Doing stuff
