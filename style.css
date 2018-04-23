@@ -1,19 +1,21 @@
-.toppy{
-	background-color: red;
-	padding: 1%;
-	color: white;
+.toppy {
+    background-color: red;
+    padding: 1%;
+    color: white;
 }
 
-.jumbotron {
-	background-image: url("https://preview.ibb.co/hg1pBF/imgedited_01.png");
-	background-size: cover;
-	color: white;
+.cjumbotron {
+    background-image: url("https://preview.ibb.co/hg1pBF/imgedited_01.png");
+    background-color: red;
+    background-size: cover;
+    color: white;
 }
 
-#hugetext{
-	font-family: "Circular Std";
-	font-size: 5.5em
+#hugetext {
+    font-family: "Circular Std";
+    font-size: 5.5em
 }
-#mainpara{
-	font-size: 1em;
+
+#mainpara {
+    font-size: 1em;
 }
